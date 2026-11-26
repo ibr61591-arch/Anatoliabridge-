@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "AnatoliaBridge",
+    "slug": "anatoliabridge",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.anatoliabridge.app",
+      "permissions": [
+        "android.permission.CAMERA",
+        "android.permission.RECORD_AUDIO"
+      ]
+    }
+  }
+}
